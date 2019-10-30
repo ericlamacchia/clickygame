@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Harry Potter",
+      "image": "https://vignette.wikia.nocookie.net/harry-potter/images/d/d6/1C2EEF5D-02A6-4435-B1EF-0C623C04193C.png/revision/latest?cb=20190814171025",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "Hermoine Grainger",
+      "image": "https://images.ctfassets.net/usf1vwtuqyxm/7xdaPxOL4cYmI4YusoYgKY/6e64803c91a26ea0069ad0fbcd7c9ace/HermioneGranger_WB_F6_HermioneGrangerFullbody_V2_Promo_0801615_Port.jpg",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Ron Weasley",
+      "image": "https://i2-prod.irishmirror.ie/incoming/article13411844.ece/ALTERNATES/s615b/2_RUPERT-GRINT-as-Ron-Weasley.jpg",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Dumbledore",
+      "image": "https://vignette.wikia.nocookie.net/harrypotter/images/4/40/Albus_Dumbledore_%28HBP_promo%29_3.jpg/revision/latest/scale-to-width-down/2000?cb=20150822232849",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Ginny Weasley",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPBp1SbPBi4_PpBq7aPZNS6-hZTGjd8KmVQh-mraVnti4cjzlP&s",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "Dobby",
+      "image": "https://a.wattpad.com/cover/113260777-288-k886907.jpg",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "George Weasley",
+      "image": "https://akns-images.eonline.com/eol_images/Entire_Site/2013624/rs_634x1024-130724114836-634.harry.cm.72413.jpg",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "Fred Weasley",
+      "image": "https://vignette.wikia.nocookie.net/p__/images/9/90/Fred_HS_TDH_promo.jpg/revision/latest?cb=20170904165912&path-prefix=protagonist",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Sirius Black",
+      "image": "https://i.pinimg.com/originals/1a/8b/8b/1a8b8b370932c9162c69be8e39e950ea.jpg",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "Remus Lupin",
+      "image": "https://i.pinimg.com/originals/40/81/4e/40814ec57a2de67c01c0f3b64e3c6c38.jpg",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "Hedwig",
+      "image": "https://vignette.wikia.nocookie.net/harrypotter/images/1/1e/Hedwig_Snowy_Owl_PM.png/revision/latest?cb=20161123234010",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "Crookshanks",
+      "image": "https://images.ctfassets.net/usf1vwtuqyxm/1VewXrez2U26IIaOUOm0Uo/9257ef81ac9e419a0ec9560d5b50fa8f/WB_F3_Crookshanks_SOLOcrop_C240_51_UP_HPE3.jpg?w=914",
+      "count": 0
+    }
+  ]
+  
